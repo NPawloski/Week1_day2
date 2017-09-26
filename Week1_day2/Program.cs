@@ -21,6 +21,13 @@ namespace Week1_day2
             Console.WriteLine(number);
             Console.WriteLine(partialNum);
             Console.WriteLine(someNumber);
+
+            // % modulus divides and checks remainders
+
+            int jarrydAge = 32;
+            int danielAge = 33;
+            Console.WriteLine(jarrydAge == danielAge);
+            Console.WriteLine(jarrydAge != danielAge);
         }
     }
 }
